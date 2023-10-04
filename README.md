@@ -17,3 +17,6 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
+
+![image](https://github.com/Nielatrue/python-challenge/assets/144754677/c0aa253d-8c21-4f4a-b332-67e28609f13e)
+
