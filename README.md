@@ -18,7 +18,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
 
-![image](https://github.com/Nielatrue/python-challenge/assets/144754677/c0aa253d-8c21-4f4a-b332-67e28609f13e)
+
 
 PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
@@ -37,4 +37,4 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 
-![image](https://github.com/Nielatrue/python-challenge/assets/144754677/6c31c04a-3db5-41ba-a01b-ca0ee1c1fc59)
+
